@@ -1,0 +1,12 @@
+
+    This Mermaid diagram represents a Kubernetes cluster with the following components:
+    - A: Kubernetes Cluster
+    - B: Namespace
+    - C: Pod
+    - D: Container
+    - E: Service
+    - F: ConfigMap
+    - G: Secret
+    - H: PersistentVolumeClaim
+    - I: Ingress
+    
